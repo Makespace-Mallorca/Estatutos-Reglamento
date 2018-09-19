@@ -1,10 +1,12 @@
-# Estatutos de "SEVILLA MAKER SOCIETY TBD"
+# Estatutos de [TBD]
+	* ¨Makespace Mallorca¨
+	* ¨Associación de investigación y divulgación tecnológica¨
 
 ## Capítulo I - DISPOSICIONES GENERALES
 
 ### Artículo 1. Denominación y naturaleza
 
-Con la denominación de Sevilla Maker Society , se constituye en Sevilla (Sevilla), el día 1 de Mayo, 
+Con la denominación de [TBD], se constituye en Mallorca (Illes Balears), el día [x], 
 de 2018, una organización de naturaleza asociativa y sin ánimo de lucro y sin orientación política,
 al amparo de lo dispuesto en el artículo 22 de la Constitución Española, en la Ley Orgánica 1/2002, de 22 de marzo, 
 reguladora del Derecho de Asociación y demás disposiciones vigentes dictadas en desarrollo y aplicación de aquélla, 
@@ -22,7 +24,7 @@ con sujeción a lo establecido en el ordenamiento jurídico.
 
 La Asociación que se crea tiene nacionalidad española.
 
-El domicilio social de la Asociación radicará en la calle/plaza UNDISCLOSED núm. UNDISCLOSED de la localidad de Sevilla (Sevilla).
+El domicilio social de la Asociación radicará en la [calle/plaza UNDISCLOSED núm. UNDISCLOSED de la localidad de.]
 
 El cambio de domicilio requerirá acuerdo de la Asamblea General, convocada específicamente con tal objeto, y la
 modificación de los presentes Estatutos.
@@ -44,31 +46,29 @@ sólo producirá efectos, tanto para los asociados como para los terceros, desde
 
 Los fines de la Asociación serán los siguientes:
 
-1.- Difundir la cultura Maker, cuyas principales características son la creación digital, el “hágalo usted mismo” 
+* Difundir la cultura Maker, cuyas principales características son la creación digital, el “hágalo usted mismo” 
 (“do it yourself” o DIY por sus siglas en inglés), la experimentación y el conocimiento de cómo funciona la tecnología.
-
-2.- Promover y divulgar el conocimiento práctico y el uso de las nuevas tecnologías, la innovación y el prototipado rápido.
-
-3.- Crear en la sociedad conciencia de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar.
-
-4.- Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, 
-aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos.
+* Trabajar con información pública y abierta permitiendo que la comunidad internacional pueda participar mejorando y enriqueciendo los contenidos que la Asociacion genere.
+* Realizar proyectos de investigación en el ámbito social.
+* Promover y divulgar el conocimiento práctico y el uso de las nuevas tecnologías, la innovación y el prototipado rápido.
+* Favorecer la divulgación de los conocimientos de electrónica, mecánica, diseño y procesos de fabricación.
+* Crear en la sociedad conciencia de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar.
+* Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos.
+* Establecer un espacio de relación entre los socios y los jóvenes de Mallorca
+* Motivar el trabajo en equipo de los participantes.
+* Motivar a los jóvenes a estudiar carreras de ambito científico ténico.
+* Acercar a los ciudados el trabajo de un ingeniero realizando proyectos de diseño, construcción ofreciendo los medios y conocimientos para realizalos. 
+* Promover y fomentar la alfabetización tecnológica.
+* Promover la economía circular, sostenible y el reciclaje. 
 
 Y para su consecución desarrollará las siguientes actividades: 
 
-1.- Impulsar la creación de una comunidad de personas inquietas y creativas para favorecer el nacimiento de 
-proyectos que impacten positivamente en nuestro entorno social, formativo y económico.
-
-2.- Facilitar el acceso a un espacio común bien equipado donde podamos desarrollar nuestros proyectos de construcción y aprendizaje.
-
-3.- Impartir talleres y charlas de prototipado rápido, técnicas de fabricación digital y tecnología en general.
-
-4.- Compartir conocimiento de manera orgánica entre aquellos que acuden a la asociación.
-
-5.- Organizar o participar en eventos y conferencias sobre tecnología, técnicas de fabricación, y sobre el movimiento
-al que representamos.
-
-6.- Organizar visitas y viajes a museos, lugares e instituciones de interés para los fines de la asociación.
+* Impulsar la creación de una comunidad de personas inquietas y creativas para favorecer el nacimiento de proyectos que impacten positivamente en nuestro entorno social, formativo y económico.
+* Facilitar el acceso a un espacio común bien equipado donde podamos desarrollar nuestros proyectos de construcción y aprendizaje.
+* Impartir talleres y charlas de prototipado rápido, técnicas de fabricación digital y tecnología en general. Orientados a colectivos de jóvenes, grupos paternofiliares, profesionales o estudiantes.
+* Compartir conocimiento de manera orgánica entre aquellos que acuden a la asociación.
+* Organizar o participar en eventos y conferencias sobre tecnología, técnicas de fabricación, y sobre el movimiento al que representamos.
+* Organizar visitas y viajes a museos, lugares e instituciones de interés para los fines de la asociación.
 
 
 ## Capítulo III - ASAMBLEA GENERAL
