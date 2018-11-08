@@ -1,44 +1,26 @@
-# Estatutos de [TBD]
-	* ¨Makespace Mallorca¨
-	* ¨Associación de investigación y divulgación tecnológica¨
+# Estatutos de la asociación ¨Makers Mallorca, Asociación de investigación y divulgación tecnológica¨
 
 ## Capítulo I - DISPOSICIONES GENERALES
 
 ### Artículo 1. Denominación y naturaleza
 
-Con la denominación de [TBD], se constituye en Mallorca (Illes Balears), el día [x], 
-de 2018, una organización de naturaleza asociativa y sin ánimo de lucro y sin orientación política,
-al amparo de lo dispuesto en el artículo 22 de la Constitución Española, en la Ley Orgánica 1/2002, de 22 de marzo, 
-reguladora del Derecho de Asociación y demás disposiciones vigentes dictadas en desarrollo y aplicación de aquélla, 
-en la Ley 4/2006, de 23 de junio, de Asociaciones de Andalucía, así como en las disposiciones normativas concordantes. 
+Con la denominación de ¨Makers Mallorca, Asociación de investigación y divulgación tecnológica¨, se constituye en Mallorca (Illes Balears), el día [x], de 2018, se regirá por estos Estatutos, la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación y por los demás leyes y disposiciones que le sean de aplicación.
 
-El régimen de la Asociación se determinará por lo dispuesto en los presentes Estatutos.
-
-### Artículo 2.  Personalidad y capacidad.
-
-La Asociación constituida tiene personalidad jurídica propia y plena capacidad de obrar, pudiendo realizar, 
-en consecuencia, todos aquellos actos que sean necesarios para el cumplimiento de la finalidad para la que ha sido creada,
-con sujeción a lo establecido en el ordenamiento jurídico.
-
-### Artículo 3.  Nacionalidad y domicilio.
+### Artículo 2.  Nacionalidad y domicilio.
 
 La Asociación que se crea tiene nacionalidad española.
 
-El domicilio social de la Asociación radicará en la [calle/plaza UNDISCLOSED núm. UNDISCLOSED de la localidad de.]
+El domicilio social de la Asociación radicará en la Calle Can Calafat 56 local 9, con el código postal 07199 de Palma.
 
 El cambio de domicilio requerirá acuerdo de la Asamblea General, convocada específicamente con tal objeto, y la
 modificación de los presentes Estatutos.
 
 El acuerdo de la Asamblea General deberá ser comunicado al Registro de Asociaciones en el plazo de un mes, y
 sólo producirá efectos, tanto para los asociados como para los terceros, desde que se produzca la inscripción.
-  
- ### Artículo 4.   Ámbito de actuación.
  
- El ámbito territorial en el que la asociación va a desarrollar principalmente sus actividades es regional.
+### Artículo 5. Duración.
  
- ### Artículo 5. Duración.
- 
- La Asociación se constituye por tiempo indefinido.
+ La Asociación se constituye por tiempo indefinido. La Asociación da comienzo a sus operaciones en la fecha de su constitución.
 
 ## Capítulo II - OBJETO DE LA ASOCIACIÓN
 
@@ -48,18 +30,16 @@ Los fines de la Asociación serán los siguientes:
 
 * Difundir la cultura Maker, cuyas principales características son la creación digital, el “hágalo usted mismo” 
 (“do it yourself” o DIY por sus siglas en inglés), la experimentación y el conocimiento de cómo funciona la tecnología.
-* Trabajar con información pública y abierta permitiendo que la comunidad internacional pueda participar mejorando y enriqueciendo los contenidos que la Asociacion genere.
-* Realizar proyectos de investigación en el ámbito social.
-* Promover y divulgar el conocimiento práctico y el uso de las nuevas tecnologías, la innovación y el prototipado rápido.
-* Favorecer la divulgación de los conocimientos de electrónica, mecánica, diseño y procesos de fabricación.
-* Crear en la sociedad conciencia de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar.
-* Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos.
-* Establecer un espacio de relación entre los socios y los jóvenes de Mallorca
-* Motivar el trabajo en equipo de los participantes.
-* Motivar a los jóvenes a estudiar carreras de ambito científico ténico.
+
+* Promover y divulgar la investigación, educación, formación, alfabetización tecnológica, economía circular, sostenibilidad, reciclaje, conocimiento, tecnología, innovación, prototipado rápido, trabajo social, integración social, electrónica, mecánica, diseño y procesos de fabricación, inteligencia artificial, propiedad intelectual e industrial, Internet de las Cosas, realidad aumentada, visión artificial, programación y videojuegos.
+
+* Favorecer la concienciación de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar, el trabajo en equipo y la participación.
+
+* Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos, en un proceso continuo de mejora y enriqueciendo de los contenidos que la Asociacion genere.
+
+
 * Acercar a los ciudados el trabajo de un ingeniero realizando proyectos de diseño, construcción ofreciendo los medios y conocimientos para realizalos. 
-* Promover y fomentar la alfabetización tecnológica.
-* Promover la economía circular, sostenible y el reciclaje. 
+ 
 
 Y para su consecución desarrollará las siguientes actividades: 
 
