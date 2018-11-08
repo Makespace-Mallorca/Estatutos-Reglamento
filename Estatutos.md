@@ -79,11 +79,11 @@ El ejercicio de las atribuciones de la Asamblea General se realizará teniendo p
 
 * Composición y nombramiento.
 La asociación tendrá una Junta Directiva y estará integrada por los siguientes cargos:
-- Presidente.
-- Vicepresidente.
-- Secretario.
-- Tesorero.
-- Vocales. Hasta un máximo de  31.
+ * Presidente.
+ * Vicepresidente.
+ * Secretario.
+ * Tesorero.
+ * Vocales. Hasta un máximo de  31.
 Todos han de ser asociados, mayores de edad, con la plenitud de derechos civiles y no tener incompatibilidad legal para el ejercicio de su cargo y serán nombrados por la Asamblea por plazo indefinido.
 Ningún miembro de la Junta Directiva recibirá retribución. 
 
