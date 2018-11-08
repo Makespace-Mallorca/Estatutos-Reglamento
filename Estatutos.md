@@ -61,17 +61,17 @@ El Presidente de la Asamblea dirigirá las reuniones, dará la palabra a los soc
 El Secretario redactará las actas de la Asamblea que serán firmadas por el Presidente, y le corresponde, además, expedir certificaciones de las mismas o de sus particulares, con el visto bueno del Presidente.
 
 * Será competencia de la Asamblea General:
-** Modificar los estatutos.
-** Elegir y separar a los miembros del órgano de representación.
-** Controlar la actividad del órgano de representación y aprobar su gestión.
-** Aprobar el presupuesto anual y la liquidación anual de cuentas.
-** Acordar la disolución de la asociación.
-** Acordar la unión a asociaciones, la integración en federaciones o confederaciones, la separación de las mismas, así como la creación y participación en fundaciones.
-** Aprobar el reglamento de régimen interno de la asociación.
-** Tener conocimiento de las altas y bajas de las personas asociadas, sin perjuicio de lo dispuesto en el artículo 24.1 de la presente Ley.
-** Acordar la solicitud de la declaración de utilidad pública y de interés público.
-** Aprobar las disposiciones y directivas del funcionamiento de la asociación.
-** Cualquier otra que no corresponda a otro órgano de la asociación.
+  - Modificar los estatutos.
+  - Elegir y separar a los miembros del órgano de representación.
+  - Controlar la actividad del órgano de representación y aprobar su gestión.
+  - Aprobar el presupuesto anual y la liquidación anual de cuentas.
+  - Acordar la disolución de la asociación.
+  - Acordar la unión a asociaciones, la integración en federaciones o confederaciones, la separación de las mismas, así como la creación y participación en fundaciones.
+  - Aprobar el reglamento de régimen interno de la asociación.
+  - Tener conocimiento de las altas y bajas de las personas asociadas, sin perjuicio de lo dispuesto en el artículo 24.1 de la presente Ley.
+  - Acordar la solicitud de la declaración de utilidad pública y de interés público.
+  - Aprobar las disposiciones y directivas del funcionamiento de la asociación.
+  - Cualquier otra que no corresponda a otro órgano de la asociación.
 
 El ejercicio de las atribuciones de la Asamblea General se realizará teniendo presente el principio de igualdad de oportunidades entre mujeres y hombres.
 
@@ -80,10 +80,10 @@ El ejercicio de las atribuciones de la Asamblea General se realizará teniendo p
 1, Composición y nombramiento.
    - La asociación tendrá una Junta Directiva y estará integrada por los siguientes cargos:
      - Presidente.
- * Vicepresidente.
- * Secretario.
- * Tesorero.
- * Vocales. Hasta un máximo de  31.
+     - Vicepresidente.
+     - Secretario.
+     - Tesorero.
+     - Vocales. Hasta un máximo de  31.
 Todos han de ser asociados, mayores de edad, con la plenitud de derechos civiles y no tener incompatibilidad legal para el ejercicio de su cargo y serán nombrados por la Asamblea por plazo indefinido.
 Ningún miembro de la Junta Directiva recibirá retribución. 
 
