@@ -77,9 +77,9 @@ El ejercicio de las atribuciones de la Asamblea General se realizará teniendo p
 
 ### Artículo 7. Junta directiva.
 
-* Composición y nombramiento.
-La asociación tendrá una Junta Directiva y estará integrada por los siguientes cargos:
- * Presidente.
+1, Composición y nombramiento.
+   - La asociación tendrá una Junta Directiva y estará integrada por los siguientes cargos:
+     - Presidente.
  * Vicepresidente.
  * Secretario.
  * Tesorero.
