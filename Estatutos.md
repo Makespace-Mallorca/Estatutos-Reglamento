@@ -214,20 +214,25 @@ y representada y firmado y rubricado por ambas.
 La Junta Directiva (o denominación similar) es el órgano colegiado que gestiona, administra  y representa los intereses 
 de la asociación, sin perjuicio de las potestades de la Asamblea General como órgano soberano.
 
-Su mandato tendrá una duración de 1 año; transcurrido dicho periodo se procederá a su renovación y consiguiente inscripción registral.
+Su mandato tendrá una duración de 2 años con renovación de la mitad de cargos, como máximo, cada año.
+Sus miembros pueden ser re-elegidos.
+
 La Asamblea General para el nombramiento o  renovación de la Junta Directiva deberá convocarse con anterioridad a la
 finalización del mandato establecido. 
 
+
+La renovación será por mitades y con consiguiente inscripción registral: Presidente/a, Secretario/a y Vocales impares:
+y Vicepresidente/a, tesorero/a y vocales pares. La primera renovación se decidirá por sorteo.
+
 Los miembros de la Junta Directiva que hubieran agotado el plazo para el cual fueron elegidos continuarán ostentando sus cargos,
 en funciones, hasta el momento en que se produzca la aceptación de las personas que les sustituyan.
-
 	
 ### Artículo 16.  Composición y cargos.
 
-La Junta Directiva estará formada por por un mínimo de 3 miembros y un máximo de 6; de ellos, se designarán los cargos de Presidente/a,
-Vicepresidente/a o Tesorero y de Secretario/a, siendo vocales el resto. Los cargos de vocal podrán quedar desiertos si no hubiera socios interesados en el puesto. 
+La Junta Directiva estará formada por por un mínimo de 3 miembros y un máximo de 9; de ellos, se designarán los cargos de Presidente/a,
+Vicepresidente/a, Tesorero/a y Secretario/a, siendo vocales el resto. Los cargos de vocal podrán quedar desiertos si no hubiera socios interesados en el puesto. 
 
-Solo los socios podrán ocupar los cargos de Presidente/a, Vicepresidente/a y Secretario/a. Podrán ser vocales también los socios colaboradores.
+Solo los socios podrán ocupar los cargos de Presidente/a, Vicepresidente/a, Tesorero/a y Secretario/a. Podrán ser vocales también los socios colaboradores.
 
 Todos los miembros serán designados y revocados por la Asamblea General.
 
