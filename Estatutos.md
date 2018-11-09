@@ -28,16 +28,16 @@ sólo producirá efectos, tanto para los asociados como para los terceros, desde
 
 Los fines de la Asociación serán los siguientes:
 
-* Difundir la cultura Maker, cuyas principales características son la creación digital, el “hágalo usted mismo” 
+* **Difundir la cultura Maker**, cuyas principales características son la creación digital, el “hágalo usted mismo” 
 (“do it yourself” o DIY por sus siglas en inglés), la experimentación y el conocimiento de cómo funciona la tecnología.
 
-* Promover y divulgar la investigación, educación, formación, alfabetización tecnológica, economía circular, sostenibilidad, reciclaje, conocimiento, tecnología, innovación, prototipado rápido, trabajo social, integración social, electrónica, mecánica, diseño y procesos de fabricación, inteligencia artificial, propiedad intelectual e industrial, Internet de las Cosas, realidad aumentada, visión artificial, programación y videojuegos.
+* **Promover y divulgar** la investigación, educación, formación, alfabetización tecnológica, economía circular, sostenibilidad, reciclaje, conocimiento, tecnología, innovación, prototipado rápido, trabajo social, integración social, electrónica, mecánica, diseño y procesos de fabricación, inteligencia artificial, propiedad intelectual e industrial, Internet de las Cosas, realidad aumentada, visión artificial, programación y videojuegos.
 
-* Favorecer la concienciación de las posibilidades que las nuevas tecnologías y la compartición de conocimiento pueden aportar, el trabajo en equipo y la participación.
+* Favorecer la concienciación de las posibilidades que las **nuevas tecnologías** y la compartición de conocimiento pueden aportar, el trabajo en equipo y la participación.
 
-* Compartir el conocimiento y los medios tecnológicos que nos permitan construir, experimentar, aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos, en un proceso continuo de mejora y enriqueciendo de los contenidos que la Asociacion genere.
+* **Compartir el conocimiento y los medios tecnológicos** que nos permitan construir, experimentar, aprender y disfrutar del proceso, ya se trate de proyectos individuales o colectivos, en un proceso continuo de mejora y enriqueciendo de los contenidos que la Asociacion genere.
 
-* Acercar a los ciudados los valores y resultados de la actividad de la asociación, que es: impulsar la creación de una comunidad de personas inquietas y creativas, facilitar el acceso a un espacio común bien equipado donde podamos desarrollar nuestros proyectos de construcción y aprendizaje, talleres y charlas de prototipado rápido, técnicas de fabricación digital y tecnología en general,  organizar y participar en eventos, visitas, viajes, conferencias sobre tecnología, técnicas de fabricación, seminarios y movimientos a los que representamos.
+* **Acercar a los ciudados los valores y resultados de la actividad de la asociación**, que son: impulsar la creación de una comunidad de personas inquietas y creativas, facilitar el acceso a un espacio común bien equipado donde podamos desarrollar nuestros proyectos de construcción y aprendizaje, talleres y charlas de prototipado rápido, técnicas de fabricación digital y tecnología en general,  organizar y participar en eventos, visitas, viajes, conferencias sobre tecnología, técnicas de fabricación, seminarios y movimientos a los que representamos.
 
 ### Artículo 5. Patrimonio de la asociación y recursos
 El patrimonio inicial de la Asociación está constituido por las aportaciones de los fundadores, que ascienden a la cantidad de 0 Euros. Podrá ser incrementado por todos los medios legalmente admitidos.
