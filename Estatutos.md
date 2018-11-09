@@ -60,37 +60,38 @@ El Presidente de la Asamblea dirigirá las reuniones, dará la palabra a los soc
 
 El Secretario redactará las actas de la Asamblea que serán firmadas por el Presidente, y le corresponde, además, expedir certificaciones de las mismas o de sus particulares, con el visto bueno del Presidente.
 
-* Será competencia de la Asamblea General:
-  - Modificar los estatutos.
-  - Elegir y separar a los miembros del órgano de representación.
-  - Controlar la actividad del órgano de representación y aprobar su gestión.
-  - Aprobar el presupuesto anual y la liquidación anual de cuentas.
-  - Acordar la disolución de la asociación.
-  - Acordar la unión a asociaciones, la integración en federaciones o confederaciones, la separación de las mismas, así como la creación y participación en fundaciones.
-  - Aprobar el reglamento de régimen interno de la asociación.
-  - Tener conocimiento de las altas y bajas de las personas asociadas, sin perjuicio de lo dispuesto en el artículo 24.1 de la presente Ley.
-  - Acordar la solicitud de la declaración de utilidad pública y de interés público.
-  - Aprobar las disposiciones y directivas del funcionamiento de la asociación.
-  - Cualquier otra que no corresponda a otro órgano de la asociación.
+Será competencia de la Asamblea General:
+* Modificar los estatutos.
+* Elegir y separar a los miembros del órgano de representación.
+* Controlar la actividad del órgano de representación y aprobar su gestión.
+* Aprobar el presupuesto anual y la liquidación anual de cuentas.
+* Acordar la disolución de la asociación.
+* Acordar la unión a asociaciones, la integración en federaciones o confederaciones, la separación de las mismas, así como la creación y participación en fundaciones.
+* Aprobar el reglamento de régimen interno de la asociación.
+* Tener conocimiento de las altas y bajas de las personas asociadas, sin perjuicio de lo dispuesto en el artículo 24.1 de la presente Ley.
+* Acordar la solicitud de la declaración de utilidad pública y de interés público.
+* Aprobar las disposiciones y directivas del funcionamiento de la asociación.
+* Cualquier otra que no corresponda a otro órgano de la asociación.
 
 El ejercicio de las atribuciones de la Asamblea General se realizará teniendo presente el principio de igualdad de oportunidades entre mujeres y hombres.
 
 ### Artículo 7. Junta directiva.
 
-1, Composición y nombramiento.
-   - La asociación tendrá una Junta Directiva y estará integrada por los siguientes cargos:
-     - Presidente.
-     - Vicepresidente.
-     - Secretario.
-     - Tesorero.
-     - Vocales. Hasta un máximo de  31.
+**Composición y nombramiento.**
+La asociación tendrá una Junta Directiva y estará integrada por los siguientes cargos:
+* Presidente.
+* Vicepresidente.
+* Secretario.
+* Tesorero.
+* Vocales. Hasta un máximo de  31.
+
 Todos han de ser asociados, mayores de edad, con la plenitud de derechos civiles y no tener incompatibilidad legal para el ejercicio de su cargo y serán nombrados por la Asamblea por plazo indefinido.
 Ningún miembro de la Junta Directiva recibirá retribución. 
 
-* Facultades
+**Facultades**
 La Junta Directiva es el órgano de dirección y representación de la Asociación, y le corresponde con carácter general el ejercicio de todas las facultades y atribuciones que por la Ley no estén preceptivamente reservadas a la Asamblea; en concreto exigirá el acuerdo de la Asamblea los siguientes actos: 
 
-** Reuniones:
+**Reuniones**
 La Junta quedará válidamente constituida cuando concurran a la reunión, presentes o representados por otro miembro de la Junta, la mitad más uno de sus miembros. La representación se conferirá mediante carta dirigida al Presidente.
 
 Los acuerdos se adoptarán por mayoría absoluta de los asistentes a la reunión, que deberá ser convocada por el Presidente. En caso de empate decidirá el voto personal de quien fuera Presidente.
@@ -119,12 +120,12 @@ La fecha de cierre del ejercicio asociativo será el 31 de diciembre de cada añ
 * La Asociación se disolverá por la voluntad de los asociados expresada en Asamblea General convocada al efecto, así como por las causas determinadas en el artículo 39 del Código Civil y por sentencia judicial firme.
 * Acordada la disolución, la Asamblea podrá nombrar liquidadores a los miembros de la Junta Directiva que desee, salvo que la disolución sea acordada por el Juez, en cuyo caso corresponderá a éste la facultad de nombrar un liquidador.
 * Corresponderá al liquidador por sí sólo y los liquidadores por unanimidad si son dos y por mayoría si son tres o más las siguientes funciones:
-** Velar por la integridad del patrimonio de la asociación.
-** Concluir las operaciones pendientes y efectuar las nuevas, que sean precisas para la liquidación.
-** Cobrar los créditos de la asociación.
-** Liquidar el patrimonio y pagar a los acreedores.
-** Aplicar los bienes sobrantes de la asociación a los siguientes fines: asociaciones de interés público, ONG o a cualquier otra entidad juridicas excluyendo personas físicas.
-** Solicitar la cancelación de los asientos en el Registro.
+  - Velar por la integridad del patrimonio de la asociación.
+  - Concluir las operaciones pendientes y efectuar las nuevas, que sean precisas para la liquidación.
+  - Cobrar los créditos de la asociación.
+  - Liquidar el patrimonio y pagar a los acreedores.
+  - Aplicar los bienes sobrantes de la asociación a los siguientes fines: asociaciones de interés público, ONG o a cualquier otra entidad juridicas excluyendo personas físicas.
+  - Solicitar la cancelación de los asientos en el Registro.
 En caso de insolvencia de la asociación, el órgano de representación o, si es el caso, los liquidadores han de promover inmediatamente el oportuno procedimiento concursal ante el juez competente.
 
 ## Capítulo V - Disposición adicional.
