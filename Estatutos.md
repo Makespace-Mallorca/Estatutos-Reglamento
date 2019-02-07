@@ -10,7 +10,7 @@ Con la denominación de ¨Makers Mallorca, Asociación de investigación y divul
 
 La Asociación que se crea tiene nacionalidad española.
 
-El domicilio social de la Asociación radicará en la Calle Can Calafat 56 local 9, con el código postal 07199 de Palma.
+El domicilio social de la Asociación radicará en la calle San Joaquin 18, 4A. 07010 de Palma de Mallorca.
 
 El cambio de domicilio requerirá acuerdo de la Asamblea General, convocada específicamente con tal objeto, y la
 modificación de los presentes Estatutos.
@@ -85,6 +85,14 @@ La asociación tendrá una Junta Directiva y estará integrada por los siguiente
 * Tesorero.
 * Vocales. Hasta un máximo de  31.
 
+A efectos de formalizar la asociacion los cargos se designan provisionalmente entre los miembros fundadores de la siguiente manera:
+
+* El presidente: 	Víctor Gómez López 
+* El secretario:		Manuel Carlos Orts García
+* El vicepresidente:	Nieves Ruiz Miró
+* El tesorero:		Sergio Morales García
+* Vocales:		Joan Cirer Capó y José Luis García Sosa
+
 Todos han de ser asociados, mayores de edad, con la plenitud de derechos civiles y no tener incompatibilidad legal para el ejercicio de su cargo y serán nombrados por la Asamblea por plazo indefinido.
 Ningún miembro de la Junta Directiva recibirá retribución. 
 
@@ -132,15 +140,5 @@ En caso de insolvencia de la asociación, el órgano de representación o, si es
 
 En todo cuanto no esté previsto en los presentes Estatutos se aplicará la Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación, la Ley 4/2006, de 23 de junio, de Asociaciones de Andalucía, y demás disposiciones complementarias
 
-En Mallorca, a XX de XXXXX de 201X
-
-(FIRMAS de los otorgantes del Acta Fundacional. Deberán firmar también en el margen de cada una de las hojas de los Estatutos.
-En el supuesto de ser una modificación de los Estatutos inscritos en el Registro de Asociaciones, firmarán las personas titulares de la Presidencia y de la Secretaría de la entidad. Deberán firmar también en el margen de cada una de las hojas de los Estatutos.)
-
-D/Dª__________________________________ 
-D/Dª__________________________________
-D/Dª__________________________________ 
-D/Dª__________________________________
-D/Dª__________________________________
-D/Dª__________________________________
+En Mallorca, a 7 de febrero de 2019
 
